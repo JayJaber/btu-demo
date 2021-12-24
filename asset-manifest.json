@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/btu-demo/static/css/main.efb58e35.css",
-    "main.js": "/btu-demo/static/js/main.8b892531.js",
+    "main.css": "/btu-demo/static/css/main.756e5fb8.css",
+    "main.js": "/btu-demo/static/js/main.421ad24a.js",
     "static/js/787.527db545.chunk.js": "/btu-demo/static/js/787.527db545.chunk.js",
     "index.html": "/btu-demo/index.html",
-    "main.efb58e35.css.map": "/btu-demo/static/css/main.efb58e35.css.map",
-    "main.8b892531.js.map": "/btu-demo/static/js/main.8b892531.js.map",
+    "main.756e5fb8.css.map": "/btu-demo/static/css/main.756e5fb8.css.map",
+    "main.421ad24a.js.map": "/btu-demo/static/js/main.421ad24a.js.map",
     "787.527db545.chunk.js.map": "/btu-demo/static/js/787.527db545.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efb58e35.css",
-    "static/js/main.8b892531.js"
+    "static/css/main.756e5fb8.css",
+    "static/js/main.421ad24a.js"
   ]
 }
